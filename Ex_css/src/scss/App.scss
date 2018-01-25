@@ -1,0 +1,13 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #666;
+
+body {
+  color: $primary-color;
+  .container ul,li {
+    list-style:none;
+  }
+}
+h5 {
+	color:blue;
+	margin-left:100px;
+}
